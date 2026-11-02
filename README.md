@@ -1,4 +1,4 @@
-# SUG - Smart Unified Gathering (Interview Panel Scheduler & ATS AI)
+# Interview Panel Scheduler & ATS AI
 
 An enterprise multi-calendar interview scheduling platform and ATS AI engine supporting **Google Calendar & Meet**, **Microsoft 365 / Outlook & Teams**, and **Slack Block Kit** notifications with a deterministic multi-panel availability solver.
 
